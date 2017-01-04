@@ -6,6 +6,7 @@
 
 - php(进行中)
    - 符合PSR-1/PSR-2的PHP编程规范实例
+   - [PhpStorm常用配置]
    - RESTful API 设计规范和文档
    - Phalcon框架结构、调试、单元测试
    - PHP新版本特性
