@@ -1,7 +1,7 @@
 # PhpStorm常用配置
 
 - .editorconfig配置文件: 规范不同项目的缩进
-
+- php-conding-style.xml PhpStorm导入该文件,操作记录为：Code Style里Manage-import文件
 - 文件目录颜色标注
     - Test (颜色为绿色) > 测试主目录，如 `Laravel` 的 `tests` 目录
     - Sources (颜色为蓝色) > 项目主代码目录，如 `Laravel` 的 `app` 目录
