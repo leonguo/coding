@@ -9,9 +9,9 @@
        - [PhpStorm常用配置](https://github.com/leonguo/coding/blob/master/php/phpstorm/phpstorm.md)
        - RESTful API 设计规范和文档
        - Phalcon框架结构、调试、单元测试
-       - PHP新版本特性
+       - PHP7新版本特性
        - 代码发布流程
-       
+
     - mysql
         - 常用sql
         - 索引
@@ -56,3 +56,6 @@
 
 - 常用工具
     - [php正则表达式](https://regex101.com/)
+
+- 项目管理
+　- 敏捷开发
