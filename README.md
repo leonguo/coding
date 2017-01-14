@@ -56,6 +56,7 @@
 
 - 常用工具
     - [php正则表达式](https://regex101.com/)
+    - [Shell增强工具](https://github.com/robbyrussell/oh-my-zsh)
 
 - 项目管理
 　- 敏捷开发
