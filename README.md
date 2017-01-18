@@ -32,6 +32,7 @@
     - 数据结构
     
     - golang
+      - [消息队列](https://github.com/nsqio/nsq)
 
 - 基础中间件
     - 二维码服务(支持彩色) 
