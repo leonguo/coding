@@ -23,9 +23,15 @@
     - mongodb
         - 常用操作命令
     
-    - docker 
+    - docker常用知识
+        - 安装docker
+          - [阿里云源](https://dev.aliyun.com/search.html)
+          - 安装[docker-compose](https://github.com/docker/compose)
         - 常用命令
+          - docker
+          - docker-compose 
         - web集成环境
+          - [laradock](https://github.com/laradock/laradock)
        
     - 算法
     
