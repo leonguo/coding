@@ -22,7 +22,7 @@
        
     - mongodb
         - [文档](https://docs.mongodb.com/manual/introduction/)
-        - windows工具推荐 [studio3t](https://studio3t.com/)
+        - windows工具推荐 [studio3t](https://studio3t.com/)
         - 常用操作命令
         - [tree树形结构](https://docs.mongodb.com/manual/tutorial/model-tree-structures)
     
